@@ -7,4 +7,4 @@ The whole project code and report can be found at the ipynb. The outline of the 
 
 Here's a high-level summarization chart showing the workflow and pipeline in the project:
 
-![alt text](https://github.com/zcheng233/Movie-Recommendation-Engine-in-Spark/blob/main/flow_chart.png)
+![alt text](https://github.com/zcheng233/Movie-Recommendation-Engine-in-Spark/blob/main/flowchart.png)
